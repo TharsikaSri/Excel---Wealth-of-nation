@@ -4,7 +4,7 @@
 The goal of the Wealth of Nation project is to clean the data using tools and techniques within Excel and then create a user friendly dashboard on both Excel and Tableau to share and represent the results.
 
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
-The dataset used is called "Dataset- The Wealth of nations.xlsx. It consists of 3 table called GDP, Life Expectancy and Smartphones. Each table provides valuable information such as the country, GDP per Capital, Life expectancy at birth, smartphone users and so on.
+The dataset used is called "Dataset- The Wealth of nations.xlsx". It consists of 3 table called GDP, Life Expectancy and Smartphones. Each table provides valuable information such as the country, GDP per Capital, Life expectancy at birth, smartphone users and so on.
 
 <div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
 - Dataset- The Wealth of nations.xlsx -> this file consists the dataset in an Excel file <br>
